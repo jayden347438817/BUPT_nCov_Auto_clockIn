@@ -29,9 +29,9 @@ EXECUTION_XPATH = '/html/body/div[1]/div/form/div[5]/input[2]/@value'
 # 表单信息
 # 吐槽一下，写柏油的教务系统和疫情填报的前端程序员都tm煞笔
 DATA = {
-	"area":       "北京市+海淀区",
+	"area":       "",
 	"bztcyy":     "",           # 不合前一天同城原因
-	"city":       "北京市",
+	"city":       "",
 	"created":    "1608086660", # 时间戳
 	"csmjry":     "0",          # 近14日内本人/共同居住者是否去过疫情发生场所
 	"date":       "20201216",   # 填报日期
